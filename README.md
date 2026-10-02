@@ -20,3 +20,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZXS20240220/ZXS20240220/snake-output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ZXS20240220/ZXS20240220/snake-output/github-snake.svg" />
 </picture>
+
+![Profile views](https://komarev.com/ghpvc/?username=ZXS20240220&label=Profile+views&color=0e75b6&style=flat)
